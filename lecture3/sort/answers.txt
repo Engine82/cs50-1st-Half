@@ -1,0 +1,11 @@
+sort1 uses: Bubble search
+
+How do you know?: Sort1 is very quick with numbers in order already, but very slow with raversed and random numbers (slowest of the 3)(definitely not theta anything).
+
+sort2 uses: Merge sort
+
+How do you know?: Sort2 takes about the same amount of time to sort regardless of number order (theta n log n), and is the fastest overall of the three programs.
+
+sort3 uses: Selection sort
+
+How do you know?: Sort3 takes about the same amount of time to run regardless of number order (theta n^2)

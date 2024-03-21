@@ -26,3 +26,11 @@ Week 2 covers topics including how compiling works, debugging methods (debuggers
 
 *Problem Set 2* included Bulbs: a program to display a user-provided message in binary, Caesar: a program to encrypt a message using Caesar's cypher, and Readability: a program that assigns a reading level (e.g. Grade 10) to a given text.
 
+---
+### [**Week 3**](https://cs50.harvard.edu/x/2023/weeks/3/)
+
+Week 3 introduces linear and binary search, bubble, selection and merge sorting, *O* notation, and recursion.
+
+*Lab 3* involved running different types of searches on different length files and using the length of time each sort took to determine which type of sorting algorithm each program utilized.
+
+*Problem Set 3* included building: Plurality: a program that recieves votes and determines the winner of an election using the plurality method.  and Runoff: a program that also recieved votes and determines the winner of an election using the runoff method, where voters rank the candidates and then a winner is determined using a weighted system.

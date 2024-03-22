@@ -46,5 +46,10 @@ Week 4 introduces pointers, seg faults, memory allocation with malloc, stack vs 
  and Reverse: a program that reverses a .wav file.
 
  ---
- 
+### [**Week 5**](https://cs50.harvard.edu/x/2023/weeks/5/)
 
+Week 5 covers a number of data structures and related concepts. This week included stacks & queues, resizing arrays, linked lists, trees, binary search trees, hash tables and tries.
+
+*Lab 5* involved creating a program to simulate blood type inheritance. This involved allocating memory for each new person in the pedigree, linking family members with pointers, and freeing memory once results were determined.
+
+*Problem Set 5* included building a program that will spellcheck a provided text in a separate file. This involved filtering capitalization, loading a dictionary of acceptable words into memory, and checking each word in the provided text against the list of acceptable words. Then finally, once the results were found and output, freeing allocated memory.

@@ -34,3 +34,17 @@ Week 3 introduces linear and binary search, bubble, selection and merge sorting,
 *Lab 3* involved running different types of searches on different length files and using the length of time each sort took to determine which type of sorting algorithm each program utilized.
 
 *Problem Set 3* included building: Plurality: a program that recieves votes and determines the winner of an election using the plurality method.  and Runoff: a program that also recieved votes and determines the winner of an election using the runoff method, where voters rank the candidates and then a winner is determined using a weighted system.
+
+---
+### [**Week 4**](https://cs50.harvard.edu/x/2023/weeks/4/)
+
+Week 4 introduces pointers, seg faults, memory allocation with malloc, stack vs heap memory utilization, buffer overflow, file I/O, and the structure of images at the pixel-level.
+
+*Lab 4* created a program to change the colors of a .bmp file pixel-by-pixel.
+
+*Problem Set 4* included building: Recover: a program that recovers deleted .jpgs from a forensic image. 
+ and Reverse: a program that reverses a .wav file.
+
+ ---
+ 
+
